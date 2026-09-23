@@ -27,11 +27,11 @@ Plataforma SaaS multi-tenant para la gestión integral de comunidades de propiet
 
 ### **0.4. URL del proyecto:**
 
-> Repositorio privado. Accesos disponibles bajo solicitud a través de [onetimesecret](https://onetimesecret.com/).
+https://github.com/alexcubcn/plazahub
 
 ### 0.5. URL o archivo comprimido del repositorio
 
-> https://github.com/alexcubcn/plazahub (privado)
+https://github.com/alexcubcn/plazahub
 
 ---
 
